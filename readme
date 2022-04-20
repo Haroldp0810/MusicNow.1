@@ -1,0 +1,35 @@
+¿Que quiere hacer el sistema?
+
+
+Inicio de sesion
+
+2 Filtros inciales
+
+Escoger el cantante - Demo del cantante
+Escoger los paquetes a realizar - Personalizar
+
+
+Comparar artista
+
+
+
+Tipos de usuario
+
+	Persona Natural
+	Musico
+	Administrador
+
+
+	Persona Natural:
+	Aquel que contrata los servicios.
+
+
+	Musico:
+	Quien ofrece los servicios
+
+	Administrador
+	Quien tiene la posibilidad de eliminar, actualizar, renovar... etc
+
+
+	Flujo
+	Registrarse o ingresar, si se registra ingresar datos, si se logea redireccionar
