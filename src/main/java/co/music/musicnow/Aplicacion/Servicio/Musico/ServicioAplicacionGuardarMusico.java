@@ -18,10 +18,9 @@ public class ServicioAplicacionGuardarMusico {
         this.servicioGuardarMusico = servicioGuardarMusico;
     }
 
-    public DtoRespuesta <Long> ejecutar(DtoMusico dto){
+    public DtoRespuesta <Long> ejecutar (DtoMusico dto){
         Musico musico = Musico.of(dto.getPrimerNombre(), dto.getSegundoNombre(),dto.getPrimerApellido(), dto.getSegundoApellido());
-
-        return new DtoRespuesta<>(this.servicioGuardarMusico.ejecutar(musico));
+        return new DtoRespuesta <>(this.servicioGuardarMusico.ejecutar(musico));
     }
 
 }

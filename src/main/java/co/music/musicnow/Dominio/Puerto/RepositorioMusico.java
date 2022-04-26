@@ -10,4 +10,6 @@ public interface RepositorioMusico {
     Musico  consultarPorId(Long id);
     Long guardar(Musico musico);
     boolean existe (Musico musico);
+    Boolean eliminar (Long id);
+    Boolean Actualizar (Long id, Musico musico);
 }

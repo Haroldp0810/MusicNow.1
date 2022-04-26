@@ -4,18 +4,14 @@ import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 
+import java.util.Date;
+
 @NoArgsConstructor
 @AllArgsConstructor
 @Getter
-public class DtoMusico {
 
-    private String primerNombre;
-    private String segundoNombre;
-    private String primerApellido;
-    private String segundoApellido;
-
-
+public class DtoPlanCompra {
+    private String nombre;
+    private String descripcion;
+    private Date fecha;
 }
-
-
-

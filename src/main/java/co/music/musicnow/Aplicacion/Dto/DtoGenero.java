@@ -7,15 +7,10 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 @Getter
-public class DtoMusico {
 
-    private String primerNombre;
-    private String segundoNombre;
-    private String primerApellido;
-    private String segundoApellido;
+public class DtoGenero {
 
+    private int id;
+    private String nombreGenero;
 
 }
-
-
-

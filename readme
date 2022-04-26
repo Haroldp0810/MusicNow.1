@@ -33,3 +33,57 @@ Tipos de usuario
 
 	Flujo
 	Registrarse o ingresar, si se registra ingresar datos, si se logea redireccionar
+
+
+	¿Que acciones realiza el administrador?
+
+    Administrar musico
+        *Crear
+        *Eliminar
+        *Actualizar
+
+    Administrar  Genero
+        *Crear
+        *Eliminar
+        *Actualizar
+
+    ¿Ideas visuales?
+        Siempre una pantalla de presentacion
+        Existira una barra, que se desplace
+
+
+    Plan compra
+
+    //Plan 1
+        * Nombre
+        * Descripcion
+        * Fecha
+        * Tiempo
+
+                          Validar: (Costos ¿Como colocarlo?)
+    // Plan 2
+    // Plan 3
+
+
+    ¿Que necesita el musico?
+
+    Nombres
+    Apellidos
+    Correos
+    Telefono
+    Documento ID
+    Generos
+    Costos
+
+
+    ¿Datos obligatorios?
+
+    Todos.
+
+
+    Preguntas
+        Relaciones bases de datos
+        Datos de los costos (Explicacion Flujo )
+
+
+
